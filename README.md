@@ -2,7 +2,7 @@
 
 [Click Here to Install Celebrity Blocker for TikTok in Chrome Web Store](https://chromewebstore.google.com/detail/tiktok-celebrity-blocker/gjlpoampikdnneonedjjgofgcgihkpoo)
 
-![Celebrity Blocker for TikTok](https://github.com/FactsFromCats/.github/assets/169418602/ad6fb6a3-da12-48d8-8741-f7bf49a17b71)
+![Celebrity Blocker for TikTok](https://github.com/FactsFromCats/FactsFromCats/assets/169418602/7a66de06-46f4-4c82-9d72-a9ab4a0f74f7)
 
 ## Introduction
 
