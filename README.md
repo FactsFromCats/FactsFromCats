@@ -4,6 +4,10 @@
 
 ![Blockout: Celeb & Brand Auto-Blocker for Insta, TikTok, X Twitter](https://github.com/FactsFromCats/FactsFromCats/assets/169418602/cbd97b0a-5a28-4db0-8b70-7b53c3b53d9e)
 
+![Blockoug Interface](https://github.com/FactsFromCats/FactsFromCats/assets/169418602/3c856ae1-6de1-4c04-940b-a12ceb47d81b)
+
+
+
 Are you tired of seeing celebrities on TikTok and Instagram that you have no interest in? Blockout: Celebrity Blocker for TikTok & Instagram is here to help. This Chrome extension allows you to block over 3200 celebrities who have either expressed support for Israel or remained silent about the ongoing genocide of Palestinian people. 
 
 ## Why Use Blockout?
