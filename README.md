@@ -8,7 +8,7 @@
 
 
 
-Are you tired of seeing celebrities on TikTok and Instagram that you have no interest in? Blockout: Celebrity Blocker for TikTok & Instagram is here to help. This Chrome extension allows you to block over 3200 celebrities who have either expressed support for Israel or remained silent about the ongoing genocide of Palestinian people. 
+Are you tired of seeing celebrities on TikTok, Instagram, or X (Twitter) that you have no interest in? Blockout: Social Media Blocker for Instagram, TikTok, & Twitter is here to help. This Chrome extension allows you to block over 4200 celebrities who have either expressed support for Israel or remained silent about the ongoing genocide of Palestinian people. 
 
 ## Why Use Blockout?
 
@@ -23,7 +23,7 @@ Many celebrities don't care about you or the Palestinian children who are being 
 
 ## Installation
 
-The Celebrity Blocker for TikTok & Instagram is available on the Chrome Web Store. You can install it by clicking the link below:
+Blocker: Social Media Blocker for TikTok, Instagram, & Twitter is available on the Chrome Web Store. You can install it by clicking the link below:
 
 [Install Celebrity Blocker for Instagram &  TikTok](https://chromewebstore.google.com/detail/blockout-celeb-brand-auto/pjeamocjemecehemagkegljddegedafo)
 
