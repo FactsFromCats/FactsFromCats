@@ -15,11 +15,18 @@ Are you tired of seeing celebrities on TikTok, Instagram, or X (Twitter) that yo
 Many celebrities don't care about you or the Palestinian children who are being murdered by the thousands. Stop giving them your attention and take control of your TikTok, Instagram, and Twitter experiences by blocking them today.
 
 ## Features
-
-- **Block Over 4200 Celebrities & Brands**: Easily block celebrities, brands, and other people of influence who have expressed support for Israel or have remained silent about the genocide in Palestine.
-- **Safety Measures**: Rate limiting to prevent your account from being flagged
-- **Resume After Stop**: Resume blocking from where you left off if you stop
-- **Close to Quit**: Close the tab if you wish to quit blocking
+- **Instagram Account Blocking**
+- **TikTok Account Blocking**
+- **X formally known as Twitter Account Blocking**
+- **4200 social media accounts worthy of blocking**
+- **View block lists**
+- **Add your own block lists**
+- **Add & remove items on block lists**
+- **Randomize blocking order**
+- **Blocked counter - see how many account's you've blocked**
+- **Rate limiting - set how fast you want it to block**
+- **Option to disable safe blocking rate limits (be careful)**
+- **Skips past missing accounts**
 
 ## Installation
 
