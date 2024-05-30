@@ -1,6 +1,8 @@
 # Blockout: Celeb & Brand Auto-Blocker for Insta, TikTok, X Twitter
 
-[Click Here to Install Blockout: Celeb & Brand Auto-Blocker for Insta, TikTok, X Twitter from the Chrome Web Store](https://chromewebstore.google.com/detail/blockout-celeb-brand-auto/pjeamocjemecehemagkegljddegedafo)
+[Click for Chrome Extension](https://chromewebstore.google.com/detail/blockout-celeb-brand-auto/pjeamocjemecehemagkegljddegedafo)
+
+[Click for Firefox Add-On](https://addons.mozilla.org/en-CA/firefox/addon/blockout/)
 
 ![Blockout: Celeb & Brand Auto-Blocker for Insta, TikTok, X Twitter](https://github.com/FactsFromCats/FactsFromCats/assets/169418602/cbd97b0a-5a28-4db0-8b70-7b53c3b53d9e)
 
@@ -32,7 +34,9 @@ Many celebrities don't care about you or the Palestinian children who are being 
 
 Blocker: Social Media Blocker for TikTok, Instagram, & Twitter is available on the Chrome Web Store. You can install it by clicking the link below:
 
-[Install Celebrity Blocker for Instagram &  TikTok](https://chromewebstore.google.com/detail/blockout-celeb-brand-auto/pjeamocjemecehemagkegljddegedafo)
+[Chrome Version](https://chromewebstore.google.com/detail/blockout-celeb-brand-auto/pjeamocjemecehemagkegljddegedafo)
+
+[Firefox Version](https://addons.mozilla.org/en-CA/firefox/addon/blockout/)
 
 ## How to Use
 
